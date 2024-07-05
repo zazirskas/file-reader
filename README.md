@@ -1,6 +1,6 @@
 # File Reader
 
-File reader. This project provides APIs to list, scan, and download the application state.
+File reader. This project provides an API that to list, scan files in a determined folder, and download the application state.
 
 ## Installation
 
@@ -8,8 +8,7 @@ First, clone the repository and navigate to the project directory:
 
 Then, install the dependencies 
 
-```npm install
-``` 
+```npm install``` 
 
 ## Running the server
 
